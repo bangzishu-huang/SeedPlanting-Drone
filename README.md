@@ -18,7 +18,7 @@ This was what the drone is supposed to look like when fully assembled from the 3
 Everything in this project can be made by a 3d printer! I will include the quantities for each of the part files below.
 
 | Quantity | Part File Name |
-| --- | --- 
+| --- | --- |
 | 8 | Propeller Cap | 
 | 8 | Propeller Blade| 
 | 1 | Pollen Door |
