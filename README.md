@@ -3,6 +3,12 @@ A 3d printed assembly prototype of an unique seed-planting drone. The drone will
 
 I did this project as another form of challenging myself, as through this project I had to balance between 2 different softwares, AutoDesk Inventor and Rhino 8. I had to learn how to effeciently navigate through both interfaces despite their different layouts. This project was also pretty fun for me as it gave me a little glimpse into aerospace engineering and design, which I thought was pretty dope. 
 
+# Demo Video
+Here's a short video showing the mobility of the drone!
+
+# Assembly Pictures
+Below are some of the pictures for the fully assembled drone.
+
 # Render Images
 Here are the renders I worked on in Rhino 8, after finishing the assembly of the drone on Inventor. I did use Photoshop to make the propellers look like they were spinning!
 
