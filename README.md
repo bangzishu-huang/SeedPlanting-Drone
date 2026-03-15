@@ -9,6 +9,10 @@ Here's a short video showing the mobility of the drone!
 # Assembly Pictures
 Below are some of the pictures for the fully assembled drone.
 
+![Image](https://github.com/user-attachments/assets/703de118-5e08-49db-8d88-3e6e73305202)
+![Image](https://github.com/user-attachments/assets/ac7598d3-b883-492c-b321-e300f185dda5)
+![Image](https://github.com/user-attachments/assets/4fc775f1-2e93-46b5-9a4a-6bd29e5408da)
+
 # Render Images
 Here are the renders I worked on in Rhino 8, after finishing the assembly of the drone on Inventor. I did use Photoshop to make the propellers look like they were spinning!
 
