@@ -6,6 +6,8 @@ I did this project as another form of challenging myself, as through this projec
 # Demo Video
 Here's a short video showing the mobility of the drone!
 
+https://github.com/user-attachments/assets/3c5c10a6-9c49-4d6a-baca-c7be078456b2
+
 # Assembly Pictures
 Below are some of the pictures for the fully assembled drone.
 
